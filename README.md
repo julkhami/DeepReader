@@ -1,2 +1,2 @@
 # DeepReader
-DeepReader is a simple command line reading app which presents text in small units. Just import a segmented text file from the command line, navigate backwards and forwards and save comments.
+DeepReader is a simple command line reading app which presents text in small units. Just import a segmented text file from the command line and DeepReader lets you navigate backwards and forwards and save comments.
